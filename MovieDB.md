@@ -47,3 +47,7 @@
 ## Best movie scene
 
 <img src="URL" width=200 height=300 alt="TEXT"/>
+
+## Worst actor/actress
+
+<img src="URL" width=200 height=300 alt="TEXT"/>
